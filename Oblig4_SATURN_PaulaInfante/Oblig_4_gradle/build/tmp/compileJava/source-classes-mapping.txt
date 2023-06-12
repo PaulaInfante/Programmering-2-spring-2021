@@ -1,0 +1,20 @@
+com/company/controller/PlanetController.java
+ com.company.controller.PlanetController
+com/company/model/NaturalSatellite.java
+ com.company.model.NaturalSatellite
+com/company/model/Star.java
+ com.company.model.Star
+com/company/Main.java
+ com.company.Main
+com/company/repository/UniverseRepository.java
+ com.company.repository.UniverseRepository
+com/company/repository/IUniverseRepository.java
+ com.company.repository.IUniverseRepository
+com/company/model/CelestialBody.java
+ com.company.model.CelestialBody
+com/company/model/PlanetSystem.java
+ com.company.model.PlanetSystem
+com/company/Application.java
+ com.company.Application
+com/company/model/Planet.java
+ com.company.model.Planet
